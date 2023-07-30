@@ -1,0 +1,349 @@
+<resources>
+    <string name="app_name">Admin Rupa Bali</string>
+
+    // Static Content
+    <string name="onboarding_title_1">Pengenalan Budaya Seni Rupa Tradisional Bali</string>
+    <string name="onboarding_description_1">Rupa Bali berusaha mengenalkan Budaya Seni Rupa Tradisional Bali kepada masyarakat hingga wisatawan.</string>
+    <string name="onboarding_title_2">Pelestarian Budaya Seni Rupa Tradisional Bali</string>
+    <string name="onboarding_description_2">Rupa Bali memberikan tempat bagi generasi muda untuk belajar dan berbagi Seni Rupa Tradisional Bali.</string>
+    <string name="onboarding_title_3">Pemberdayaan Seniman Seni Rupa Tradisional Bali</string>
+    <string name="onboarding_description_3">Rupa Bali memberikan tempat bagi seniman untuk membagikan hasil karyanya.</string>
+    <string name="under_development_page">Sabar yaa halaman ini lagi dibuat.</string>
+    <string name="login_title">Selamat Datang</string>
+    <string name="login_description">Silahkan masuk ke akunmu</string>
+    <string name="lupa_password">Lupa Kata Sandi?</string>
+    <string name="click_here">klik disini</string>
+    <string name="register_admin_title">Pendaftaraan Admin</string>
+    <string name="register_admin_description_data">Silahkan isi data akunmu</string>
+    <string name="register_admin_description_document">Silahkan isi document verifikasi</string>
+    <string name="forgot_password_title">Lupa Kata Sandi</string>
+    <string name="register_confirm_title">Konfirmasi Pendaftaran</string>
+    <string name="register_confirm_description">Apakah anda yakin akan mendaftarkan akun dengan data pengguna ini?</string>
+    <string name="home_title">Home</string>
+    <string name="favorite_artwork_title">Karya Favorit</string>
+    <string name="chat_title">Percakapan</string>
+    <string name="profile_title">Profil</string>
+    <string name="exploration_title">Explorasi Rupa</string>
+    <string name="education_title">Edukasi Rupa</string>
+    <string name="artwork_category_title">Jenis-Jenis Karya</string>
+    <string name="artwork_detail_title">Detail Karya</string>
+    <string name="event_title">Acara Rupa</string>
+    <string name="news_title">Berita Rupa</string>
+    <string name="collector_title">Kolektor Rupa</string>
+    <string name="user_title">Cari Pengguna</string>
+    <string name="popular_artworks_title">Rupa Populer</string>
+    <string name="artwork_title">Karya Rupa</string>
+    <string name="recent_artwork_title">Karya Rupa Terkait</string>
+    <string name="description_title">Deskripsi</string>
+    <string name="history_title">Sejarah</string>
+    <string name="function_title">Fungsi</string>
+    <string name="artwork_information_title">Informasi Karya</string>
+    <string name="artwork_identity_title">Identitas Karya</string>
+    <string name="artwork_ownership_history_title">Kepemilikan</string>
+    <string name="artwork_achievement_title">Pencapaian</string>
+    <string name="artwork_achievement_detail_title">Detail Pencapaian</string>
+    <string name="other_achievement_title">Prestasi Lainnya</string>
+    <string name="news_detail_title">Detail Berita</string>
+    <string name="other_news_title">Berita Lainnya</string>
+    <string name="event_detail_title">Detail Acara</string>
+    <string name="other_event_title">Acara Lainnya</string>
+    <string name="edit_profile_title">Edit Profil</string>
+    <string name="change_password_title">Ganti Password</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="manage_user_title">Manajemen Pengguna</string>
+    <string name="manage_admin_title">Manajemen Admin</string>
+    <string name="manage_artwork_title">Manajemen Karya</string>
+    <string name="manage_fine_art_category_title">Manajemen Jenis Seni</string>
+    <string name="manage_artwork_category_title">Manajemen Jenis Karya</string>
+    <string name="manage_news_title">Manajemen Berita</string>
+    <string name="manage_event_title">Manajemen Acara</string>
+    <string name="is_verify">Terverifikasi</string>
+    <string name="not_verify">Belum Terverifikasi</string>
+    <string name="is_suspend">Tersuspend</string>
+    <string name="not_suspend">Aktif</string>
+    <string name="start_date">Mulai: </string>
+    <string name="end_date">Selesai: </string>
+    <string name="sorting_selector_label">Urut Berdasarkan</string>
+    <string name="sorting_order_selector_label">Urutan Sortir</string>
+    <string name="sorting_menu_alert_dialog_title">Pengurutan</string>
+    <string name="menu_all_data">Semua Data</string>
+    <string name="menu_verification_data">Data Verifikasi</string>
+
+    //Management Admin
+    <string name="management_admin_title">Manajemen Data Admin</string>
+    <string name="management_admin_description">Pada halaman ini anda dapat melakukan manajemen pada data admin</string>
+    <string name="list_admin_title">Data Admin</string>
+    <string name="list_verification_admin_title">Data Verifikasi Admin</string>
+    <string name="label_admin_search_bar">Cari admin disini!</string>
+
+    //Management User
+    <string name="management_user_title">Manajemen Data User</string>
+    <string name="management_user_description">Pada halaman ini anda dapat melakukan manajemen pada data user</string>
+    <string name="list_user_title">Data User</string>
+    <string name="list_verification_user_title">Data Verifikasi User</string>
+    <string name="label_user_search_bar">Cari pengguna disini!</string>
+
+    //Management Artwork
+    <string name="management_artwork_title">Manajemen Data Karya Seni</string>
+    <string name="management_artwork_description">Pada halaman ini anda dapat melakukan manajemen pada data karya seni</string>
+    <string name="list_artwork_title">Data Karya Seni</string>
+    <string name="list_verification_artwork_title">Data Verifikasi Karya Seni</string>
+    <string name="label_artwork_search_bar">Cari karya seni disini!</string>
+
+    //Management Artwork Category
+    <string name="management_artwork_category_title">Manajemen Data Kategori Karya Seni</string>
+    <string name="management_artwork_category_description">Pada halaman ini anda dapat melakukan manajemen pada data kategori karya seni</string>
+    <string name="list_artwork_category_title">Data Kategori Karya Seni</string>
+    <string name="list_verification_artwork_category_title">List Data Verifikasi Kategori Karya Seni</string>
+    <string name="label_artwork_category_search_bar">Cari kategori karya disini!</string>
+
+    //Management Fine Art Category
+    <string name="management_fine_art_category_title">Manajemen Data Kategori Seni Rupa</string>
+    <string name="management_fine_art_category_description">Pada halaman ini anda dapat melakukan manajemen pada data kategori seni rupa</string>
+    <string name="list_fine_art_title">Data Kategori Seni Rupa</string>
+    <string name="list_verification_fine_art_title">Data Verifikasi Kategori Seni Rupa</string>
+    <string name="label_fine_art_search_bar">Cari kategori seni disini!</string>
+
+    //Management Event
+    <string name="management_event_title">Manajemen Data Acara Seni Rupa</string>
+    <string name="management_event_description">Pada halaman ini anda dapat melakukan manajemen pada data acara seni rupa</string>
+    <string name="list_event_title">Data Acara Seni Rupa</string>
+    <string name="list_verification_event_title">Data Verifikasi Acara Seni Rupa</string>
+    <string name="label_event_search_bar">Cari acara seni disini!</string>
+
+    //Management News
+    <string name="management_news_title">Manajemen Data Kategori Berita Seni Rupa</string>
+    <string name="management_news_description">Pada halaman ini anda dapat melakukan manajemen pada data berita seni rupa</string>
+    <string name="list_news_title">Data Berita Seni Rupa</string>
+    <string name="list_verification_news_title">Data Verifikasi Berita Seni Rupa</string>
+    <string name="label_news_search_bar">Cari berita disini!</string>
+
+    //Submission Artwork
+    <string name="submission_artwork_title">Pengajuan Karya</string>
+    <string name="submission_artwork_common_information_title">Informasi Umum</string>
+    <string name="submission_artwork_common_information_description">Silahkan isi informasi umum mengenai karya milik anda</string>
+    <string name="submission_artwork_dimension_title">Dimensi Karya</string>
+    <string name="submission_artwork_dimension_description">Silahkan isi dimensi karya milik anda</string>
+    <string name="submission_artwork_video_title">Video Penjelasan Karya</string>
+    <string name="submission_artwork_video_description">Apabila anda memiliki video penjelasan karya, silahkan masukkan video penjelasan karya disini. Video Karya dapat membantu pengguna lain memahami karya milik anda.</string>
+    <string name="submission_artwork_location_title">Lokasi Karya</string>
+    <string name="submission_artwork_location_description">Masukkan lokasi karya yang anda miliki, Lokasi karya memudahkan pengguna lainnya untuk melihat secara langsung karya anda di lokasi</string>
+    <string name="submission_artwork_status_title">Status Karya</string>
+    <string name="submission_artwork_status_description">Masukkan status karya yang anda miliki. Status karya akan memberi tahu pengguna lain apakah karya anda dijual, dilelang, atau hanya sebagai koleksi pribadi.</string>
+    <string name="submission_artwork_document_title">Dokumen Penting Karya</string>
+    <string name="submission_artwork_document_description">Masukkan dokumen HaKI atau dokumen kepemilikan karya yang anda miliki. Dokumen ini akan dipergunakan untuk jaminan hak kepemilikan karya pada aplikasi ini.</string>
+    <string name="submission_artwork_detail_title">Detail Karya</string>
+    <string name="submission_artwork_detail_description">Masukkan detail karya yang anda miliki. Detail karya akan membantu pengguna lain dalam memahami setiap bagian dari karya anda.</string>
+    <string name="submission_artwork_ownership_title">Histori Kepemilikan Karya</string>
+    <string name="submission_artwork_ownership_description">Masukkan histori kepemilikan karya yang anda miliki. Histori ini dapat membantu pengguna lainnya untuk mengetahui sejarah kepemilikan dari karya anda.</string>
+    <string name="submission_artwork_achievement_title">Pencapaian Karya</string>
+    <string name="submission_artwork_achievement_description">Masukkan pencapaian karya yang anda miliki. Pencapaian ini dapat membantu pengguna lainnya untuk mengetahui pencapaian dari karya anda.</string>
+    <string name="submission_artwork_overview_title">Overview Karya</string>
+
+
+    //Verification
+    <string name="verification_user_title">Verifikasi Pengguna</string>
+    <string name="verification_user_description">Masukkan data verifikasi pengguna. Data ini digunakan untuk memverifikasi pengguna sebagai pemilik asli dari setiap karya seni yang akan diunggah ke platform ini. Pengguna tidak dapat mengunggah karya seni sebelum melakukan verifikasi pengguna.</string>
+
+    //Management Account
+    <string name="management_account_title">Kelola Akun</string>
+    <string name="management_account_description">Kelola akun anda pada halaman ini. Anda dapat memilih menu pengelolaan akun sesuai kebutuhan anda.</string>
+    <string-array name="management_account_menu_label">
+        <item>Edit Profil</item>
+        <item>Ganti Kata Sandi</item>
+        <item>Ajukan Verifikasi</item>
+        <item>Keluar Akun</item>
+        <item>Hapus Akun</item>
+    </string-array>
+
+    // Label
+    <string name="label_start">Mulai</string>
+    <string name="label_email">Surel</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="label_user_name">Nama Pengguna</string>
+    <string name="label_confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="label_all_category">Semua</string>
+    <string name="artwork_label">KARYA</string>
+    <string name="like_label">SUKA</string>
+    <string-array name="user_category_label">
+        <item>Semua</item>
+        <item>Pengunjung</item>
+        <item>Seniman</item>
+        <item>Kolektor</item>
+    </string-array>
+    <string name="label_creation_date">Tanggal</string>
+    <string name="label_fine_art_category">Jenis Seni</string>
+    <string name="label_artwork_category">Jenis Karya</string>
+    <string name="label_scared_status">Kesakralan</string>
+    <string name="label_dimension">Dimensi</string>
+    <string name="label_owner">Pemilik</string>
+    <string name="label_value">Nilai</string>
+    <string name="label_createdAt">Dibuat : </string>
+    <string name="label_updatedAt">Diubah : </string>
+    <string name="label_title_artwork">Judul Karya</string>
+    <string name="label_artist_name">Nama Seniman</string>
+    <string name="label_role_admin">Role Admin</string>
+
+    // Label Button
+    <string name="label_login">Masuk</string>
+    <string name="label_register">Daftar</string>
+    <string name="label_cancel">Batal</string>
+    <string name="label_close">Tutup</string>
+    <string name="label_ok">Oke</string>
+    <string name="label_yes">Iya</string>
+    <string name="label_no">Tidak</string>
+    <string name="label_auction">Situs Pelelangan</string>
+    <string name="label_sell">Situs Penjualan</string>
+    <string name="label_certificate">Sertifikat</string>
+    <string name="label_real_article">Artikel Asli</string>
+    <string name="label_link_event">Link Acara</string>
+    <string name="label_next">Selanjutnya</string>
+    <string name="label_previous">Sebelumnya</string>
+    <string name="label_submit">Ajukan</string>
+    <string name="label_save">Simpan</string>
+    <string name="label_sort">Urutkan</string>
+    <string name="label_edit_profile">Edit Profile</string>
+    <string name="label_change_password">Ubah Password</string>
+    <string name="label_hapus_akun">Hapus Akun</string>
+    <string name="label_logout">Keluar</string>
+    <string name="label_change_picture">Ubah Foto</string>
+
+    //Label Input
+    <string name="label_input_artwork_description">Deskripsi Karya</string>
+    <string name="label_input_artwork_value">Nilai Jual Karya</string>
+    <string name="label_input_artwork_title">Judul Karya</string>
+    <string name="label_input_artwork_artist">Seniman Pembuat Karya</string>
+    <string name="label_input_artwork_tanggal_karya_dibuat">Tanggal Dibuat</string>
+    <string name="label_input_artwork_category">Kategori Karya</string>
+    <string name="label_input_fine_art_category">Kategori Seni</string>
+    <string name="label_input_scared_status">Status Kesakralan</string>
+    <string name="label_input_artwork_function">Kegunaan Karya</string>
+    <string name="label_input_artwork_dimension_height">Tinggi Karya (mm)</string>
+    <string name="label_input_artwork_dimension_width">Lebar Karya (mm)</string>
+    <string name="label_input_artwork_dimension_long">Tebal atau Panjang Karya (mm)</string>
+    <string name="label_input_artwork_status">Status Karya</string>
+    <string name="label_input_artwork_auction_link">Link Penjualan atau Lelang</string>
+    <string name="label_input_artwork_detail_title">Nama Detail Karya</string>
+    <string name="label_input_artwork_detail_description">Deskripsi Detail Karya</string>
+    <string name="label_input_artwork_owner_name">Nama Pemilik</string>
+    <string name="label_input_artwork_owner_start_date">Tanggal Kepemilikan Dimulai</string>
+    <string name="label_input_artwork_owner_end_date">Tanggal Kepemilikan Selesai</string>
+    <string name="label_input_artwork_achievement_name">Nama Pencapaian</string>
+    <string name="label_input_artwork_achievement_date">Tanggal Pencapaian</string>
+    <string name="label_input_artwork_achievement_description">Deskripsi Pencapaian</string>
+    <string name="label_input_artwork_achievement_sertificate">Sertifikat Pencapaian</string>
+    <string name="label_input_artwork_image">Foto Karya</string>
+    <string name="label_input_artwork_video">Video Penjelasan Karya</string>
+    <string name="label_input_artwork_location">Lokasi Karya</string>
+    <string name="label_input_artwork_owner_document">Document Kepemilikan Karya</string>
+    <string name="label_input_artwork_haki_document">Document HaKI Karya</string>
+    <string name="label_input_artwork_detail">Tambahkan Detail Karya</string>
+    <string name="label_input_artwork_ownership_history">Tambahkan Histori Kepemilikan</string>
+    <string name="label_input_artwork_achievement">Tambahkan Pencapaian Karya</string>
+    <string name="label_user_identity_card">Kartu Tanda Penduduk</string>
+    <string name="label_user_fullname">Nama Panjang Pengguna</string>
+    <string name="label_user_nickname">Nama Panggilan</string>
+    <string name="label_user_type">Jenis Pengguna</string>
+    <string name="label_input_user_photo_profile">Foto Profil Pengguna</string>
+    <string name="label_input_user_photo_background">Foto Background Pengguna</string>
+    <string name="label_input_password">Kata Sandi</string>
+    <string name="label_input_confirmation_password">Konfirmasi Kata Sandi</string>
+    <string name="label_input_new_password">Kata Sandi Baru</string>
+    <string name="label_input_confirmation_new_password">konfirmasi Kata Sandi Baru</string>
+    <string name="label_input_document_verif_admin">Dokumen Pendukung</string>
+    <string name="description_input_document_verif_admin">File format .pdf ukuran maksimal 5mb</string>
+    <string name="hint_input_document">Tambahkan Dokumen</string>
+    <string name="hint_change_document">Ganti Dokumen</string>
+    <string name="hint_input_identity_card">Tambahkan Scan KTP</string>
+    <string name="hint_change_identity_card">Ganti Scan KTP</string>
+    <string name="label_input_admin_identity_card">Scan Kartu Tanda Penduduk</string>
+    <string name="description_input_admin_identity_card">File format .jpg atau .png ukuran maksimal 1mb</string>
+    <string name="label_fullname">Nama Panjang</string>
+    <string name="label_nickname">Nama Panggilan</string>
+
+
+    //Error Message
+    <string name="error_invalid_email">Format email salah</string>
+    <string name="error_empty_email">Kolom email belum diisi</string>
+    <string name="error_empty_role">Role belum dipilih</string>
+    <string name="error_wrong_password">Kata sandi salah</string>
+    <string name="error_empty_password">Kolom kata sandi belum diisi</string>
+    <string name="error_undefined">Error tidak terdeteksi</string>
+    <string name="error_empty_username">Kolom nama pengguna belum diisi</string>
+    <string name="error_empty_fullname">Kolom nama panjang belum diisi</string>
+    <string name="error_empty_nickname">Kolom nama panggilan belum diisi</string>
+    <string name="error_empty_confirm_password">Kolom konfirmasi kata sandi belum diisi</string>
+    <string name="error_different_confirm_password">Konfrirmasi kata sandi harus sama dengan kata sandi</string>
+    <string name="error_invalid_password">Format kata sandi minimal 8 karakter</string>
+    <string name="error_empty_identity_card">KTP belum diisi</string>
+    <string name="error_empty_proving_document">Dokumen pendukung belum diisi</string>
+
+
+    //Search Bar Label
+    <string name="label_home_search_bar">Yuk cari hal baru hari ini?</string>
+    <string name="label_favorite_artwork_search_bar">Cari karya yang kamu sukai!</string>
+    <string name="label_submission_artwork_search_bar">Cari data pengajuan karya!</string>
+    <string name="label_chat_search_bar">Cari percakapan disini!</string>
+    <string name="label_education_search_bar">Cari ilmu rupa disini!</string>
+
+    //Dialog Alert
+    <string name="label_alert_title_logout">Konfirmasi Keluar</string>
+    <string name="label_alert_message_logout">Apakah anda yakin ingin keluar dari akun ini?</string>
+    <string name="label_dialog_edit_profile_picture">Foto Profil</string>
+    <string name="label_dialog_edit_profile">Ubah Profil</string>
+    <string name="label_alert_title_edit_profile_admin">Konfirmasi Perubahan Akun</string>
+    <string name="label_alert_message_edit_profile_admin">Apakah anda yakin ingin menyimpan perubahan ini??</string>
+
+
+    //Error Alert
+    <string name="label_alert_title_connection_problem">Masalah Koneksi</string>
+    <string name="label_alert_message_no_connection">Tidak dapat menyambungkan koneksi. Membutuhkan koneksi internet untuk membuka aplikasi. Periksa kembali koneksi internet anda</string>
+    <string name="label_alert_title_login_problem">Login Gagal</string>
+    <string name="label_alert_message_wrong_email_password">Email atau Password yang anda masukkan salah. Periksa kembali Email dan Password yang anda masukkan</string>
+    <string name="label_alert_message_admin_not_validate">Admin belum terverifikasi. Minta Super Admin untuk melakukan verifikasi data admin anda</string>
+    <string name="label_alert_title_undifine_problem">Error</string>
+    <string name="label_alert_message_undifine_problem">Telah terjadi masalah yang tidak dapat didefinisikan sistem.</string>
+    <string name="label_alert_title_input_problem">Masukkan Error</string>
+    <string name="label_alert_message_input_problem">Masukkan yang anda berikan tidak dapat diproses oleh sistem.</string>
+    <string name="label_alert_title_auth_problem">Masalah Autentikasi</string>
+    <string name="label_alert_message_auth_problem">Autentikasi gagal. Sesi anda telah berakhir silahkan masuk ulang</string>
+    <string name="label_alert_message_admin_not_found_problem">Admin tidak ditemukan silahkan masuk ulang</string>
+    <string name="label_alert_title_register_problem">Registrasi Gagal</string>
+    <string name="label_alert_message_email_already_used_problem">Email sudah digunakan</string>
+    <string name="label_alert_title_update_profile_picture_admin_problem">Pembaharuan Foto Profile Gagal</string>
+    <string name="label_alert_message_update_failed_problem">Terjadi kegagalan proses pembaharuan data pada sistem</string>
+    <string name="label_alert_title_update_profile_admin_problem">Pembaharuan Profile Gagal</string>
+
+    //Menu Label
+    <string-array name="label_menu_chat">
+        <item>Notifikasi</item>
+    </string-array>
+    <string-array name="label_menu_profile">
+        <item>Pengajuan Karya</item>
+        <item>Kelola Akun</item>
+        <item>Bagikan Profile</item>
+        <item>Pengaturan</item>
+    </string-array>
+    <string-array name="label_menu_artwork">
+        <item>Kelola Karya</item>
+        <item>Bagikan Karya</item>
+    </string-array>
+    <string-array name="label_admin_role">
+        <item>Super Admin</item>
+        <item>Admin</item>
+        <item>Validator</item>
+        <item>Undefined</item>
+    </string-array>
+
+    //EditTextHint
+    <string name="hint_chat">Tulis pesan disini!</string>
+
+    //Contention
+
+    //Welcome Text
+    <string name="welcome_text">Selamat datang,</string>
+
+    //Title Activity
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
